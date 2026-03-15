@@ -64,7 +64,7 @@ Essa parte não é necessária para o aprendizado, mas foi pensada para dar insp
 
 
 
-Como envolve juntar modelos, a ideia é ser uma pasta que seja atualizada conforme seja criado conteúdos que valham a pena serem guardados de inspiração.
+Como envolve juntar modelos, a ideia é ser uma pasta que seja atualizada conforme sejam criados conteúdos que valham a pena serem guardados de inspiração.
 
 
 
