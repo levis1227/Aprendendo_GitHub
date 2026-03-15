@@ -66,6 +66,12 @@ Como envolve juntar modelos, a ideia é ser uma pasta que seja atualizada confor
 
 ## Consulta rápida
 
+Texto especial, Markdown e Links
+
+Botando imagens, vídeos e gifs
+
+Criando pasta e Extensão de Arquivo
+
 
 
 
