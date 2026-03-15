@@ -64,6 +64,12 @@ Como envolve juntar modelos, a ideia é ser uma pasta que seja atualizada confor
 
 
 
+## Consulta rápida
+
+
+
+
+
 
 
 
