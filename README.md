@@ -9,6 +9,14 @@ Como esses vão ser os primeiros passos para aprender a usar o GitHub, separamos
 [Link do Curso](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
 
 
+### Sinopse
+
+Este curso gratuito do Curso em Vídeo é um guia prático para quem deseja dominar o Git e o GitHub, ferramentas essenciais para qualquer desenvolvedor. Partindo do zero, o aluno aprende desde os conceitos básicos de versionamento até funções avançadas, como o gerenciamento de branches, uso de Issues e documentação em Markdown.
+
+O foco está na didática acessível e aplicação real, ensinando a criar repositórios, registrar mudanças com commits e colaborar em projetos de equipe. Ao final, o estudante estará apto a organizar seus códigos com profissionalismo, utilizar o GitHub para construir um portfólio público e hospedar sites gratuitamente.
+
+### Playlist Completa
+
 Nesse curso será exposto:
 
 1. O que é Git? O que é versionamento? 
@@ -26,11 +34,7 @@ Nesse curso será exposto:
 13. Hospedagem Grátis no GitHub Pages
 
 
-### Sinopse
 
-Este curso gratuito do Curso em Vídeo é um guia prático para quem deseja dominar o Git e o GitHub, ferramentas essenciais para qualquer desenvolvedor. Partindo do zero, o aluno aprende desde os conceitos básicos de versionamento até funções avançadas, como o gerenciamento de branches, uso de Issues e documentação em Markdown.
-
-O foco está na didática acessível e aplicação real, ensinando a criar repositórios, registrar mudanças com commits e colaborar em projetos de equipe. Ao final, o estudante estará apto a organizar seus códigos com profissionalismo, utilizar o GitHub para construir um portfólio público e hospedar sites gratuitamente.
 
 
 
