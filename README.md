@@ -74,7 +74,7 @@ Como envolve juntar modelos, a ideia é ser uma pasta que seja atualizada confor
 
 [Botando imagens, vídeos e gifs](Consulta_Rápida/Midia_Print)
 
-[Criando pasta e Extensão de Arquivo](Consulta_Rápida/Ext_Arq+Pasta)
+[Criando pasta e Extensão de Arquivo](Consulta_Rápida/Ext_Arq+Pasta.md)
 
 
 
