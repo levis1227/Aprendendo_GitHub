@@ -60,7 +60,7 @@ Vale a pena fazer este curso por inteiro, ainda mais porque a explicação fica 
 Essa parte não é necessária para o aprendizado, mas foi pensada para dar inspiração em futuros projetos na plataforma do GitHub. Nela vai conter modelos que de fato foram usados e outros que tinham um formato interessante, mas não foram pra frente. 
 
 
-[Link para pasta de Modelos](https://github.com/levis1227/Aprendendo_GitHub/edit/main/README.md)
+[Link para pasta de Modelos](Banco_de_Modelos)
 
 
 
