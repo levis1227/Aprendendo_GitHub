@@ -70,7 +70,7 @@ Como envolve juntar modelos, a ideia é ser uma pasta que seja atualizada confor
 
 ## Consulta rápida
 
-Texto especial, Markdown e Links
+[Texto especial, Markdown e Links](Consulta_Rápida/Texto_Cod.md)
 
 Botando imagens, vídeos e gifs
 
