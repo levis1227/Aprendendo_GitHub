@@ -2,3 +2,5 @@
 
 # Lista de modelos
 
+1. [Projetos para oficina Arduino (2026)](M_0.md)
+2. [Esboço de um template para projetos](M_1.md)
