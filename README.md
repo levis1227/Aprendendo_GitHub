@@ -78,7 +78,7 @@ Como envolve juntar modelos, a ideia é ser uma pasta que seja atualizada confor
 
 ## Perfis interessantes
 
-
+[emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 ## Extra
 
