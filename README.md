@@ -76,6 +76,10 @@ Como envolve juntar modelos, a ideia é ser uma pasta que seja atualizada confor
 
 [Criando pasta e Extensão de Arquivo](Consulta_Rápida/Ext_Arq+Pasta.md)
 
+## Perfis interessantes
+
+
+
 ## Extra
 
 Essa área é para adicionar conteúdos que o curso não contempla, mas que é interessante para eventuais consultas.
