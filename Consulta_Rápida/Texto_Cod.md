@@ -1,105 +1,82 @@
-# Tipos de Markdown
+## 1. Estilização de Texto
 
-texto normal
+O Markdown permite destacar textos de diversas formas:
 
-**negrito**
+* **Texto normal**
+* **Negrito**: `**negrito**` ou `__negrito__`
+* *Itálico*: `*itálico*` ou `_itálico_`
+* ***Negrito + Itálico***: `__*texto*__` ou `**_texto_**`
+* ~~Riscado~~: `~~texto~~`
 
-__negrito__
+---
 
-*itálico*
+## 2. Cabeçalhos (Títulos)
 
-_itálico_
-
-__*negrito+itálico*__
-
-**_negrito+itálico_**
-
-
-~~riscado~~
-
-# Titulo 1
+# Título 1
 ## Título 2
 ### Título 3
 
-***
+---
 
-Lista numerada:
+## 3. Listas
 
+### Lista Numerada
 1. Teste
-1. Teste2
-1. Teste3
+2. Teste2
+3. Teste3
 
-***
-
-1. Teste
-999. Teste2
-0. Teste3
-
-***
-
-1. Teste
-0. Teste2
-   1. Teste3
-   2. Teste4
-
-
-Lista demarcada:
-
-
+### Lista Demarcada (Bullets)
 * Teste
 * Teste
-   * Teste
+    * Sub-item (indentado)
 * Teste
 - Teste
 - Teste
 
-Lista de Tarefas:
+### Lista de Tarefas (Task List)
 - [x] Criar a página principal
 - [x] Criar a página da loja
 - [ ] Finalizar a reunião com o cliente
 - [ ] Receber o pagamento
 
+---
 
-# Links
+## 4. Links e Imagens
 
+### Links
 [Acesse esse vídeo](https://youtube.com/shorts/Pg8Md_7oV-M?si=wKP2FFNIRdOEesA8)
 
-# Imagens
-
-recomendado até 500 pixel, arraste a imagem do seu pc e coloque nesse chat que o programa vai gerar o comando
+### Imagens
+Recomendado até 500 pixels. Exemplo de inserção via HTML para controle de tamanho:
 
 <img width="522" height="268" alt="maquina (1)" src="https://github.com/user-attachments/assets/cee91036-36f0-4cbc-8db1-cf503caa70cb" />
 
-# Tabelas
+---
 
-Num | Nome | Nota
----|---|--- 
-1 | Gustavo | 8,5
-2 | José | 10,0
-3 | Maria | 9,0
+## 5. Tabelas
 
-terminou a tabela
+| Num | Nome | Nota |
+| :--- | :--- | :--- |
+| 1 | Gustavo | 8,5 |
+| 2 | José | 10,0 |
+| 3 | Maria | 9,0 |
 
-# Crase
+---
 
-identificar comando
+## 6. Blocos de Código (Crase)
 
+### Inline Code
+Útil para identificar comandos no meio do texto, como o comando `document.getElementById()`.
 
-Não entendo direito para que serve o comando `document.getElementByld()` da linguagem JavaScript. 
-
-
-Olha meu programa em Python
-```
+### Bloco de Código (Python)
+```python
 num = int(input('Digite um valor:'))
+
 if num % 2 == 0:
+
    print(f'O valor {num} é PAR')
+
 else:
+
    print(f'O valor {num} é ÍMPAR')
 ```
-
-OBS: dá pra por uma print do cod direto tbm
-
-
-# Emoji
-
-[Nome de todos os emojis disponíveis](https://github.com/ikatyang/emoji-cheat-sheet)
