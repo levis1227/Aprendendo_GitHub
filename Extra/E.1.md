@@ -21,7 +21,11 @@ O GitHub não permite a existência de pastas vazias. Para criar uma pasta, voc�
 
 <img width="928" height="373" alt="image" src="https://github.com/user-attachments/assets/d4e3f471-3f02-49c5-8b47-347329156c54" />
 
+---
+
 <img width="1447" height="673" alt="image" src="https://github.com/user-attachments/assets/7487e758-5b16-449c-9098-7df3fb80df97" />
+
+---
 
 <img width="1280" height="316" alt="image" src="https://github.com/user-attachments/assets/02590373-fc5f-4e81-b24b-665ab323e9ef" />
 
