@@ -31,11 +31,4 @@ Lista das principais extensões e como o GitHub as renderiza no navegador.
 * **.tex:** Código LaTeX (Renderiza fórmulas em arquivos .md).
 * **.ipynb:** Jupyter Notebooks (Renderiza células e gráficos).
 
----
 
-| Comportamento | Descrição |
-| :--- | :--- |
-| **Texto/Código** | Exibição direta com cores. |
-| **Imagens** | Visualização direta no repositório. |
-| **Binários** | Apenas download (ex: .zip, .exe). |
-| **Limite** | Máximo de 100 MB por arquivo. |
