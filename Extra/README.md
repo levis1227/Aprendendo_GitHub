@@ -2,4 +2,4 @@
 
 # Lista de tutoriais
 
-1. [Como criar pasta no GitHub](Extra/E.1.md)
+1. [Como criar pasta no GitHub](E.1.md)
