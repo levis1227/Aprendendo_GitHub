@@ -2,3 +2,6 @@
 
 # Lista de consulta rápido
 
+1. [Texto](Consulta_Rápida/Texto_Cod.md)
+2. [Imagens e Vídeos](Consulta_Rápida/Imagens_videos.md)
+3. [Extensão de Arquivo](Consulta_Rápida/Ext_Arquivo.md)
