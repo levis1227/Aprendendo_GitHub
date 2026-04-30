@@ -1,3 +1,7 @@
+# Orientação
+
+Para usar direito esse guia, veja o que você quer fazer e depois procure esse trecho no código para saber como replicar.
+
 ## 1. Estilização de Texto
 
 O Markdown permite destacar textos de diversas formas:
